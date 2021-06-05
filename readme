@@ -1,0 +1,10 @@
+jokesd
+
+======
+
+A simple C program using libcurl and libnotify that notifies you with a dad joke every 10 minutes.
+The time delay, can be changed by passing the "-t" argument with the number of minutes.
+
+The program can be compiled with the "install.sh" script, which also installs jokesd to "~/bin", and copies the the icon to "~/.local/share/icons/jokesd/"
+
+Credits to https://openmoji.org for the emoji, to https://icanhazdadjoke.com for the API, and to this answer https://stackoverflow.com/a/2329792/13213725 .
